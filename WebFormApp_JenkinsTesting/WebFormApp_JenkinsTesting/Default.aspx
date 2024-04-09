@@ -13,7 +13,7 @@
             <section class="col-md-4" aria-labelledby="gettingStartedTitle">
                 <h2 id="gettingStartedTitle">Getting started</h2>
                 <p>
-               I have Added these changes for testing purpose
+               I have Added these changes for testing purpose (Changed on 9/4/2024)
                 </p>
                 <p>
                     <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
